@@ -8,7 +8,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 posts = soup.find_all(class_='col-sm-4')
 
-with open('post.csv', 'w') as csv_files:
+with open('post.csv', 'a') as csv_files:
     csv_writer = writer(csv_files)
     headers = ['Title', 'Links', 'Price']
     csv_writer.writerow(headers)
