@@ -1,0 +1,44 @@
+{
+    "0": {
+        "Id": "1",
+        "Title": "Packard 255 G2",
+        "Links": "/test-sites/e-commerce/allinone/product/222",
+        "Price": "$416.99"
+    },
+    "1": {
+        "Id": "2",
+        "Title": "Iphone",
+        "Links": "/test-sites/e-commerce/allinone/product/198",
+        "Price": "$899.99"
+    },
+    "2": {
+        "Id": "3",
+        "Title": "ThinkPad T540p",
+        "Links": "/test-sites/e-commerce/allinone/product/224",
+        "Price": "$1178.99"
+    },
+    "3": {
+        "Id": "Id",
+        "Title": "Title",
+        "Links": "Links",
+        "Price": "Price"
+    },
+    "4": {
+        "Id": "1",
+        "Title": "Asus ROG Strix G...",
+        "Links": "/test-sites/e-commerce/allinone/product/321",
+        "Price": "$1259.00"
+    },
+    "5": {
+        "Id": "2",
+        "Title": "Asus ROG Strix G...",
+        "Links": "/test-sites/e-commerce/allinone/product/249",
+        "Price": "$1769.00"
+    },
+    "6": {
+        "Id": "3",
+        "Title": "Asus VivoBook 15...",
+        "Links": "/test-sites/e-commerce/allinone/product/276",
+        "Price": "$468.56"
+    }
+}
